@@ -44,7 +44,7 @@ TemperatureConverter/
 
 ## 📷 Screenshots
 
-![Temperature Converter Screenshot](image/projectImage.jpeg)  
+![Temperature Converter Screenshot](image/projectImage.jpg)  
 
 
 ---
