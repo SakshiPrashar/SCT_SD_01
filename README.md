@@ -1,0 +1,68 @@
+# Temperature_Converter
+
+This is the initial setup for the **Temperature Converter** project. This web app converts temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**. It features smooth animations using **GSAP** and styling with **Tailwind CSS**.
+
+---
+
+## 🌐 Live Demo
+
+You can see the live version here:  
+[Temperature Converter Live](https://sakshiprashar.github.io/SCT_SD_01/)
+
+---
+
+## 📁 Project Structure
+
+TemperatureConverter/
+├── index.html # Main HTML file
+├── style.css # CSS for styling (background + custom styles)
+├── script.js # JavaScript functionality with GSAP animations
+└── image/ # Folder for background or other images
+
+
+---
+
+## 🚀 Features
+
+- Responsive HTML layout with Tailwind CSS  
+- Smooth animations using **GSAP**  
+- Convert temperatures between Celsius, Fahrenheit, and Kelvin  
+- Input validation and error messages  
+- Press **Enter** to convert as well as clicking the button  
+- Clean, organized folder structure  
+
+---
+
+## 💻 Technologies Used
+
+- **HTML5** – structure of the app  
+- **CSS3 + Tailwind** – styling and layout  
+- **JavaScript (ES6)** – logic for temperature conversion  
+- **GSAP** – animations for converter box and results  
+
+---
+
+## 📷 Screenshots
+
+![Temperature Converter Screenshot](image/projectImage.jpeg)  
+
+
+---
+
+## 🛠️ How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/TemperatureConverter.git
+Navigate into the folder:
+
+bash
+Copy code
+cd TemperatureConverter
+Open index.html in your preferred browser.
+
+Enter a temperature, select the input unit, choose the output unit, and click Convert (or press Enter) to see the result.
+
+✍️ Author
+Sakshi
