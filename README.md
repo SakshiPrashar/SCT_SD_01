@@ -52,9 +52,9 @@ SCT_SD_01/
 ## 🛠️ How to Run Locally
 
 1. Clone the repository:
-git clone https://github.com/SakshiPrashar/SCT_SD_01.git
+git clone https://github.com/SakshiPrashar/SCT_SD_1.git
 
-2. Navigate into the folder: cd SCT_SD_01
+2. Navigate into the folder: cd SCT_SD_1
 
 3. Open index.html in your preferred browser.
 
