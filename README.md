@@ -1,4 +1,4 @@
-# SCT_SD_01
+# SCT_SD_1
 
 This is the initial setup for the **Temperature Converter** project. This web app converts temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**. It features smooth animations using **GSAP** and styling with **Tailwind CSS**.
 
